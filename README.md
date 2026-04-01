@@ -1,8 +1,25 @@
-# React + Vite
+# E-Commerce Static Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
+Responsive e-commerce frontend UI built using HTML, CSS, and JavaScript, React.js.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Product listing page
+- Responsive design
+- UI components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React.js
+## 📸 Screenshots
+
+### Home Page
+![Home](home.png)
+
+### Products Page
+![Products](products.png)
+
+## ▶️ How to Run
+Open index.html in browser
