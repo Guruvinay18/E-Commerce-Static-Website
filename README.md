@@ -16,10 +16,10 @@ Responsive e-commerce frontend UI built using HTML, CSS, and JavaScript, React.j
 ## 📸 Screenshots
 
 ### Home Page
-![Home](home.png)
+![Home](Home page.png)
 
 ### Products Page
-![Products](products.png)
+![Products](product.png)
 
 ## ▶️ How to Run
 Open index.html in browser
